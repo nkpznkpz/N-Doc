@@ -1,0 +1,30 @@
+application/msword
+image/gif
+image/jpeg
+image/png
+text/plain
+application/octet-stream   rar
+application/x-zip-compressed
+
+header("Location: adb/xyz/hello.html");
+
+myminty@hotmail.com says:
+บทที่ 1 บทนำ
+ที่มาและความสำคัญ
+วัตถุประสงค์ของโครงการ
+ขอบเขตของโครงการ
+ขั้นตอนและวิธีการ
+ฮาร์ดแวร์ ซอฟต์แวร์ และเครื่องมือที่ใช้ในการศึกษา
+ผลที่คาดว่าจะได้รับ
+บทที่ 2 
+บทที่ 3ความรู้เกี่ยวกับสื่อการเรียนรู้
+บทที่ 4 การวิเคราะห์และออกแบบระบบ
+Scenario ของระบบ
+Use Case Diagram
+Use Case Narative
+Class Diagram
+Sequence Diagram
+Class Diagram
+บทที่ 5 การออกแบบฐานข้อมูล
+ER diagram
+บทที่ 6 การออกแบบหน้าจอ

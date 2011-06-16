@@ -1,0 +1,82 @@
+application/msword
+image/gif
+image/jpeg
+image/png
+text/plain
+application/octet-stream   rar
+application/x-zip-compressed
+
+header("Location: adb/xyz/hello.html");
+
+myminty@hotmail.com says:
+บทที่ 1 บทนำ
+ที่มาและความสำคัญ
+วัตถุประสงค์ของโครงการ
+ขอบเขตของโครงการ
+ขั้นตอนและวิธีการ
+ฮาร์ดแวร์ ซอฟต์แวร์ และเครื่องมือที่ใช้ในการศึกษา
+ผลที่คาดว่าจะได้รับ
+บทที่ 2 
+บทที่ 3ความรู้เกี่ยวกับสื่อการเรียนรู้
+บทที่ 4 การวิเคราะห์และออกแบบระบบ
+Scenario ของระบบ
+Use Case Diagram
+Use Case Narative
+Class Diagram
+Sequence Diagram
+Class Diagram
+บทที่ 5 การออกแบบฐานข้อมูล
+ER diagram
+บทที่ 6 การออกแบบหน้าจอ
+
+
+<table width="70%" height="327" border="0">
+<tr>
+              <td class="form"><div align="center" class="style1"><strong> ชื่อหัวข้อ             </strong>:</div></td>
+            </tr>
+            <tr>
+              <td height="139" class="form">&nbsp;</td>
+            </tr>
+            <tr>
+              <td height="37" class="form"><div align="left" class="style3">
+                <p>รายละเอียด :</p>
+                <p>&nbsp;</p>
+              </div></td>
+            </tr>
+            <tr>
+              <td height="32" class="style4">file :<img src="icon/DriveDownloads.png" alt="ดาวโหลด" width="20" height="20" /></td>
+            </tr>
+            <tr>
+              <td class="form"><div align="right">ผู้เพิ่ม :<a href="#">xxx</a></div></td>
+            </tr>
+          </table>
+                      <p align="right"><a href="#">เก็บเข้าเป็นสื่อของฉัน<img src="icon/NotePad.png" alt="เก็บเข้าเป็นสื่อการเรียนรู้ของฉัน" width="50" height="50" /></a></p>
+                      <p align="left" class="style5"><img src="icon/MyDocuments2.png" width="50" height="50" />ความคิดเห็น</p>
+                      
+                      <div align="center">
+                        <table width="80%" border="0" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td height="53" class="form"><div align="left">ข้อความ :</div></td>
+                          </tr>
+                          <tr>
+                            <td class="form">ผู้ตอบ : <a href="#">xxxxxxxx</a> เมื่อวันที่ : [ลบ]</td>
+                          </tr>
+                        </table>
+                        <br />
+                        <a href="#">&lt;&lt;preview</a> <span class="style6">...................</span> <a href="#">next&gt;&gt;</a><br />
+                        <table width="80%" border="0" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td class="form"><div align="center">เพิ่มความคิดเห็น</div></td>
+                          </tr>
+                          <tr>
+                            <td class="form"><div align="center">
+                              <textarea name="textarea" cols="45" rows="5" class="textbox" id="textarea"></textarea>
+                            </div></td>
+                          </tr>
+                          <tr>
+                            <td class="form"><div align="center">
+                              <input type="submit" name="button2" id="button2" value="เพิ่มความคิดเห็น" />
+                              <input type="reset" name="button3" id="button3" value="ยกเลิก" />
+                            </div></td>
+                          </tr>
+                        </table>
